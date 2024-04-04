@@ -14,11 +14,14 @@ namespace CSI122_Week1_Notes
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// Jeremy Saetern 
+    /// CSI122
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
+           
         }
     }
 }
